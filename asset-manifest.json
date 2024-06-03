@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gradify/static/css/main.f855e6bc.css",
+    "main.js": "/Gradify/static/js/main.76bc1b83.js",
+    "static/js/453.ed3810f9.chunk.js": "/Gradify/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Gradify/index.html",
+    "main.f855e6bc.css.map": "/Gradify/static/css/main.f855e6bc.css.map",
+    "main.76bc1b83.js.map": "/Gradify/static/js/main.76bc1b83.js.map",
+    "453.ed3810f9.chunk.js.map": "/Gradify/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.76bc1b83.js"
+  ]
+}
